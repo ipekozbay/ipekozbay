@@ -12,6 +12,8 @@ I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 *   C
 *   Python
 
+## Contect me
+* https://www.linkedin.com/in/ipek-%C3%B6zbay-50620a213/
 
 - 🔭 I’m currently working on Human Resources Management System with Java  if you wonder my codes You can check my repository https://github.com/ipekozbay/HRMS
 
