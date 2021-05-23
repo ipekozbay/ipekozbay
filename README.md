@@ -1,8 +1,5 @@
 ### Hi there , I'm İpek from Turkey. I am a Computer Engineering student. 👋
 
-<!--
-**ipekozbay/ipekozbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
