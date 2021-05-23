@@ -26,5 +26,7 @@ I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
                                   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekozbay&layout=compact)](https://github.com/ipekozbay/github-readme-stats)                         
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipekozbay&repo=github-readme-stats)](https://github.com/ipekozbay/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipekozbay&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
