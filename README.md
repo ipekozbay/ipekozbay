@@ -1,4 +1,4 @@
-### Hi there 👋, İpek Özbay
+### Hi there 👋,I'm İpek 
 #### Development
 I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 I'm currently learning Java and React and working OOP.
