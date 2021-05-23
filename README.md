@@ -12,3 +12,4 @@ Skills: JAVA / REACT / RUBY / C / PYHTON
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ipekozbay)  
 
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=ipekozbay)](https://github.com/anuraghazra/github-readme-stats)
