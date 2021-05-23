@@ -1,10 +1,16 @@
 ### Hi there 👋,I'm İpek 
-#### Development
 I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 I'm currently learning Java - React and working OOP.
 I wrote in C and ruby programming language and still I am writing .
 
-Skills: JAVA / REACT / RUBY / C / PYHTON
+## Skills and Experience
+* ⚛ React
+*   Java 
+*   ruby 
+*   C
+*   Python
+* 
+/ REACT / RUBY / C / PYHTON
 
 - 🔭 I’m currently working on Human Resources Management System with Java  if you wonder my codes You can check my repository https://github.com/ipekozbay/HRMS
 
