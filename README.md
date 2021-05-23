@@ -1,7 +1,7 @@
 ### Hi there I'm İpek 👋
 I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 
-* I'm currently learning Java - React and working OOP.
+* I'm currently learning Java - React and working on OOP.
 * I wrote in C and ruby programming language and still I am writing .
 *  I’m looking for an internship place.
 
