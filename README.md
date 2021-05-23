@@ -22,7 +22,6 @@ I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 * ipek.ozbay@bil.omu.edu.tr
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipekozbay)](https://github.com/anuraghazra/github-readme-stats)            
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekozbay&hide=javascript,html)](https://github.com/ipekozbay/github-readme-stats)                          
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipekozbay)](https://github.com/anuraghazra/github-readme-stats)                                    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekozbay&layout=compact)](https://github.com/ipekozbay/github-readme-stats)
 
