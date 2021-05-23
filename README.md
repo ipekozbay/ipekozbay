@@ -1,4 +1,4 @@
-### Hi there 👋,I'm İpek 
+### Hi there I'm İpek 👋
 I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 I'm currently learning Java - React and working OOP.
 I wrote in C and ruby programming language and still I am writing .
