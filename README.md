@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on OOP.
-- 🌱 I’m currently learning Java and React.
+#- 🔭 I’m currently working on OOP.
+#- 🌱 I’m currently learning Java and React.
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
