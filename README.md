@@ -9,8 +9,7 @@ I wrote in C and ruby programming language and still I am writing .
 *   ruby 
 *   C
 *   Python
-* 
-/ REACT / RUBY / C / PYHTON
+
 
 - 🔭 I’m currently working on Human Resources Management System with Java  if you wonder my codes You can check my repository https://github.com/ipekozbay/HRMS
 
