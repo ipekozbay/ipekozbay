@@ -23,6 +23,6 @@ I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipekozbay)](https://github.com/anuraghazra/github-readme-stats)                                    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekozbay&layout=compact)](https://github.com/ipekozbay/github-readme-stats)                          [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ipekozbay)](https://github.com/ipekozbay/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekozbay&layout=compact)](https://github.com/ipekozbay/github-readme-stats)                         
 
 
