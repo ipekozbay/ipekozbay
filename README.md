@@ -21,6 +21,7 @@ I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 * https://www.linkedin.com/in/ipek-%C3%B6zbay-50620a213/
 * ipek.ozbay@bil.omu.edu.tr
 
+## Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipekozbay&show_icons=true&theme=cobalt)
                                   
