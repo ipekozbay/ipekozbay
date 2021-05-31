@@ -3,7 +3,7 @@ I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 
   I believe that lifelong learning and I love programming and learning new things
 
-* I'm currently learning Java - React and working on OOP.
+* I'm currently learning 'Java and React' and working on OOP.
 * I wrote in C and ruby programming language and still I am writing .
 *  I’m looking for an internship place.
 
