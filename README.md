@@ -11,12 +11,6 @@ I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ipekozbay)  
 
-## Skills and Experience
-* ⚛ React
-*   Java 
-*   ruby 
-*   C
-*   Python
 
 ## Contect me
 * https://www.linkedin.com/in/ipek-%C3%B6zbay-50620a213/
