@@ -20,7 +20,5 @@ I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipekozbay&show_icons=true&theme=cobalt)
  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekozbay&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
