@@ -1,8 +1,8 @@
 ### Hi there I'm İpek 👋
 I am a Computer Engineering student at the Ondokuz Mayıs Universiy.               
 
-  I believe that lifelong learning and I love programming and learning new things   
-  ![unknown](https://user-images.githubusercontent.com/72815766/121092919-f9b0e700-c7f4-11eb-812a-fdb95c7d0702.png) * I'm currently learning 'Java and React' and working on OOP.
+  I believe that lifelong learning and I love programming and learning new things       * I'm currently learning 'Java and React' and working on OOP
+  ![unknown](https://user-images.githubusercontent.com/72815766/121092919-f9b0e700-c7f4-11eb-812a-fdb95c7d0702.png) 
 *  I’m looking for an internship place.
 
 - 🔭 I’m currently working on Human Resources Management System with Java  if you wonder my codes You can check my repository https://github.com/ipekozbay/HRMS
