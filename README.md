@@ -13,7 +13,8 @@ I am a Computer Engineering student at the Ondokuz Mayıs Universiy.
 
 
 ## Contect me
-* https://www.linkedin.com/in/ipek-%C3%B6zbay-50620a213/
+* www.linkedin.com/in/ipek-özbay
+
 * ipek.ozbay@bil.omu.edu.tr
 
 ## Statistics
