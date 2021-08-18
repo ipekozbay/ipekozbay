@@ -1,5 +1,5 @@
 ### Hi there I'm İpek 👋
-I am a Computer Engineering student at the Ondokuz Mayıs Universiy.               
+I am a Computer Engineering student at the Ondokuz Mayıs University.               
 
   I believe that lifelong learning and 
   I love programming and learning new things       
