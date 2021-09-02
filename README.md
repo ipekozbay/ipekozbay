@@ -6,7 +6,7 @@ I am a Computer Engineering student at the Ondokuz Mayıs University.
   * I'm currently learning 'Java and React' and working on OOP
 *  I’m looking for an internship place.
 
-- 🔭 I’m currently working on Human Resources Management System with Java  if you wonder my codes You can check my repository https://github.com/ipekozbay/HRMS
+- 🔭 I’m currently working on Human Resources Management System with Java  if you wonder my codes You can check  [my repository]( https://github.com/ipekozbay/HRMS)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ipekozbay)  
