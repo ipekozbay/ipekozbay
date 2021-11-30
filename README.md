@@ -3,7 +3,7 @@ I am a Computer Engineering student at the Ondokuz Mayıs University.
 
   I believe that lifelong learning and 
   I love programming and learning new things       
-  * I'm currently learning 'Java and React' and working on OOP
+  * I'm currently learning Django and working on OOP
 *  I’m looking for an internship place.
 
 - 🔭 I’m currently working on Human Resources Management System with Java  if you wonder my codes You can check  [my repository]( https://github.com/ipekozbay/HRMS)
