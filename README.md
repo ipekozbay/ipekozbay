@@ -4,6 +4,7 @@ I am a Computer Engineering student at the Ondokuz Mayıs University.
   I believe that lifelong learning and 
   I love programming and learning new things       
   * I'm currently learning C# and working on OOP
+  * I'm currently working on RentACar Project .
 *  I’m looking for an internship place.
 
 
