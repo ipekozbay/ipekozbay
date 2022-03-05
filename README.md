@@ -4,7 +4,7 @@ I am a Computer Engineering student at the Ondokuz Mayıs University.
   I believe that lifelong learning and 
   I love programming and learning new things       
   * I'm currently learning C# and working on OOP
-  * I'm currently working on ReCapProject Project .
+  * I'm currently working on ReCapProject and Django Blog.
 *  I’m looking for an internship place.
 
 
