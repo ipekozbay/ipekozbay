@@ -1,10 +1,11 @@
 ### Hi there I'm İpek 👋
-I am a Computer Engineering student at the Ondokuz Mayıs University.               
+
+
+I am a Computer Engineering student and an intern engineer at Turkish Aerospace Industries Inc.
 
   I believe that lifelong learning and 
   I love programming and learning new things       
   * I'm currently learning JavaScript and working on OOP
-*  I’m looking for an internship place.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ipekozbay)  
