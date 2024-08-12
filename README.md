@@ -1,7 +1,7 @@
 ### Hi there I'm İpek 👋
 
 
-I am a Computer Engineering student and an intern engineer at Turkish Aerospace Industries Inc.
+I am a Computer Engineer and an intern engineer at HAVELSAN.
 
   * I believe that lifelong learning and I love programming and learning new things       
   * I'm currently learning JavaScript and working on OOP
