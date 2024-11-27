@@ -13,7 +13,7 @@ I am a Computer Engineer from Turkey.
 ## Contect me
 * www.linkedin.com/in/ipek-özbay
 
-* ipek.ozbay@bil.omu.edu.tr
+* ipekozbay06@gmail.com
 
 ## Statistics
 
